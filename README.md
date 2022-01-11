@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/florczykmarta2022/AzurePipelines/_apis/build/status/BalUKurowej.ContosoAir?branchName=master)](https://dev.azure.com/florczykmarta2022/AzurePipelines/_build/latest?definitionId=5&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
